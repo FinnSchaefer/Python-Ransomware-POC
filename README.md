@@ -5,7 +5,7 @@ A simple python Proof of Concept Ransomeware built using Fernet documentation an
 
 This is a Proof of Concept (POC) ransomeware built using Python and the Fernet library. I will be updating this periodically when I can think of how to make it better. This is meant for educational purposes and my own understanding of how ransomeware works. I am open to any and all feedback :). Please be safe while you use this and use at your own risk. 
 
-For safe use you can use the main.py to directly interface with the scripts.
+For safe use you can use the main.py to directly interface with the scripts the main.py has no other use.
 For un-safe use you can simply run the encrypt script to generate a new key using Fernet and encrypt all files with the file extensions listed in main_functions.py os_crawler function.
 
 Please keep in mind, if you do run this, that I am not responsible if your data becomes unrecoverable this is a simple Proof of Concept.
